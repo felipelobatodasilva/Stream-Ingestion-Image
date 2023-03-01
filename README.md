@@ -2,4 +2,4 @@
 
 ## Arquitetura Stream Ingestion AWS
 
-<img src="./imagem/Archictecture.png" alt="drawing" width="1700"/>
+<img src="Archictecture.png" alt="drawing" width="1700"/>
